@@ -1,6 +1,6 @@
 [
   {
-    "to_addr": ["me@gmail.com"],
+    "to_addrs": ["me@gmail.com"],
     "products": [
       "Cadbury Dairy Milk Chocolate Block 180g",
       "Cadbury Dairy Milk Vanilla Sticks 4 Pack",
