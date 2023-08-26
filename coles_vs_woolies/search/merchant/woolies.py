@@ -79,7 +79,7 @@ class Product(types.Product, BaseModel, extra=Extra.allow):
     AgeRestricted: bool  # false
     DisplayQuantity: int  # 1
     RichDescription: Optional[str]  # null
-    IsDeliveryPass: bool  # false
+    # IsDeliveryPass: bool  # false
     HideWasSavedPrice: bool  # false
     Brand: str  # "Cadbury"
     IsRestrictedByDeliveryMethod: bool  # false
