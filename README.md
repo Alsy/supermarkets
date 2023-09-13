@@ -1,4 +1,4 @@
-Copy of https://github.com/MattTimms/coles_vs_woolies for me to play with
+Copy of https://github.com/MattTimms/coles_vs_woolies for me to play with.
 
 # 🍎 coles_vs_woolies 🍏
 
