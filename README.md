@@ -1,3 +1,5 @@
+Copy of https://github.com/MattTimms/coles_vs_woolies for me to play with
+
 # 🍎 coles_vs_woolies 🍏
 
 ![Python](https://img.shields.io/badge/python-3.10%20%7C%203.11-blue)
